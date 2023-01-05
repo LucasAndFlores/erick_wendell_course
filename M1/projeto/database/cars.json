@@ -1,0 +1,23 @@
+[
+  {
+    "name": "XTS",
+    "id": "80ea6e5b-0e2a-4f7a-8fb8-55a79c278a2f",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "name": "Aventador",
+    "id": "23ab871c-4924-4fb2-8303-1bdf0ac62332",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "name": "El Camino",
+    "id": "f868e5eb-e2e6-4347-82d2-0846a4af28c3",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]

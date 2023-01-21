@@ -1,0 +1,1 @@
+{"processes":{"964bec2f-f106-4528-97be-f8c2b7bfecb0":{"parent":null,"children":["af0e97e0-2409-48e9-8e73-9f2aae267ed6"]},"af0e97e0-2409-48e9-8e73-9f2aae267ed6":{"parent":"964bec2f-f106-4528-97be-f8c2b7bfecb0","children":[]}},"files":{"/home/lucasandrade/Desktop/erick_wendell_course/M4/project/src/person.js":["af0e97e0-2409-48e9-8e73-9f2aae267ed6"]},"externalIds":{}}

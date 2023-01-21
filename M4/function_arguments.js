@@ -1,6 +1,7 @@
 'use strict'
 
 const {promises: { readFile }, watch} = require('fs')
+
 class File {
 	 watch(event, filename){
 		 

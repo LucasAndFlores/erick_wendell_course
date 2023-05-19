@@ -1,0 +1,19 @@
+^\d{3}.\d{3}.\d{3}-\d{2}$ //cpf
+
+125.256.925-14
+125.569.185-42
+300.300.255.50
+
+replace [.-] - vazio
+
+^(\w+),\s(\w+)$ - Grupos sao usado com $, e o grupo 0 é total, e apos isso, sao os grupos que fizemos {firstName: "$2", lastName: "$1"}
+{firstName: "erick", lastName: "wendel"}
+{firstName: "joao", lastName: "gomes"}
+{firstName: "erick", lastName: "werner"}
+{firstName: "lucas", lastName: "andrade"}
+
+\[(.*?)\]\(([http|https].*?)\) - O operador | pode agrupar um ou outro e o ? delimita ate onde haja um caractere igual ao do final
+
+O [Erick wendel](http://erickwendel.com) faz palstetras e voce devia seguilo la no [Twitter](http://twitter.com/erickwendell_) ou ate no [Instagram](https://instagram.com/erickwendell_).
+
+Ah, e voce pode acha lo no [Google](http://google.com) ou no [Gmail](http://gmail.com)

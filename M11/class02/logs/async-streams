@@ -1,0 +1,5 @@
+[This is the duplex writable] This_is_my
+[This is the duplex writable] custom_readable
+[writable] whole string This_is_my,custom_readable
+[writable] bytes read 25
+An error happened The operation was aborted
